@@ -16,22 +16,23 @@ Today we have the first meeting of the "Learning a New Language"
 reading group in Glasgow. I am going for Rust. Here's what I did
 before the meeting.
 
- * downloaded the rust compiler and sdk
+ * downloaded the rust compiler from https://www.rust-lang.org/tools/install
  * compiled an example hello world rust program.
-'''
+
+```rust
 fn main() {
     println!("hello world")
 }
-'''
+```
  * ran the program! It worked first time.
 
 Things that confused me.
- * Why does println need an exclamation mark after it?
- * Does main have a return value?
+ * Why does `println` need an exclamation mark after it?
+ * Does `main` have a return value?
 
 Things I probably expected:
- * `main' is called `main'
- * Strings look like strings.
+ * `main` is called `main`
+ * Strings look like strings, with double quote delimiters
 
 
 Derek suggested we should learn by creating solutions to
@@ -39,3 +40,8 @@ well-known problems, learning by construction and by following
 examples.
 Example-driven learning in Rust is well-supported with the
 online textbook [Rust by Example](https://doc.rust-lang.org/rust-by-example/).
+
+
+At the meeting discussion, we agreed everyone needs to set
+individual goals, given we may have different motivation.
+
