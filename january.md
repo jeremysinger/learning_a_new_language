@@ -1,5 +1,5 @@
 
-Thursday 10 January
+### Thursday 10 January
 
 At a meeting in Edinburgh, I told several colleagues about
 our 'Learning a New Language' project. I got some interesting
@@ -10,7 +10,7 @@ not to learn a language "by diff" - meaning I shouldn't just play
 already know. He says that's how lots of people try to learn their
 first functional language, and it generally confuses them.
 
-Friday 11 January
+### Friday 11 January
 
 Today we have the first meeting of the "Learning a New Language"
 reading group in Glasgow. I am going for Rust. Here's what I did
