@@ -16,22 +16,22 @@ Today we have the first meeting of the "Learning a New Language"
 reading group in Glasgow. I am going for Rust. Here's what I did
 before the meeting.
 
-# downloaded the rust compiler and sdk
-# compiled an example hello world rust program.
-
+ * downloaded the rust compiler and sdk
+ * compiled an example hello world rust program.
+'''
 fn main() {
     println!("hello world")
 }
-
-# ran the program! It worked first time.
+'''
+ * ran the program! It worked first time.
 
 Things that confused me.
-# Why does println need an exclamation mark after it?
-# Does main have a return value?
+ * Why does println need an exclamation mark after it?
+ * Does main have a return value?
 
 Things I probably expected:
-# main is called main
-# Strings look like strings.
+ * `main' is called `main'
+ * Strings look like strings.
 
 
 Derek suggested we should learn by creating solutions to
