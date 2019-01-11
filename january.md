@@ -33,3 +33,9 @@ Things I probably expected:
 # main is called main
 # Strings look like strings.
 
+
+Derek suggested we should learn by creating solutions to
+well-known problems, learning by construction and by following
+examples.
+Example-driven learning in Rust is well-supported with the
+online textbook [Rust by Example](https://doc.rust-lang.org/rust-by-example/).
